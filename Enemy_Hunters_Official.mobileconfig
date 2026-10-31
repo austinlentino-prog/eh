@@ -1,9 +1,12 @@
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+
     <key>PayloadContent</key>
     <array>
+
         <dict>
             <key>FullScreen</key>
             <true/>
@@ -12,15 +15,15 @@
             <key>Label</key>
             <string>Enemy Hunters Official</string>
             <key>PayloadDescription</key>
-            <string>Adds Enemy Hunters Official to the Home Screen.</string>
+            <string>Enemy Hunters Official Web App</string>
             <key>PayloadDisplayName</key>
             <string>Enemy Hunters Official</string>
             <key>PayloadIdentifier</key>
-            <string>net.enemy-hunters.webclip</string>
+            <string>net.enemyhunters.official</string>
             <key>PayloadType</key>
             <string>com.apple.webClip.managed</string>
             <key>PayloadUUID</key>
-            <string>C4A4C311-D112-48AE-A712-299F5BFF7F53</string>
+            <string>11111111-1111-4111-8111-111111111111</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>Precomposed</key>
@@ -28,22 +31,58 @@
             <key>URL</key>
             <string>https://enemy-hunters.netlify.app</string>
         </dict>
+
+        <dict>
+            <key>FullScreen</key>
+            <true/>
+            <key>IsRemovable</key>
+            <true/>
+            <key>Label</key>
+            <string>Enemy Hunters X Daily Detectives</string>
+            <key>PayloadDescription</key>
+            <string>Enemy Hunters X Daily Detectives Web App</string>
+            <key>PayloadDisplayName</key>
+            <string>Enemy Hunters X Daily Detectives</string>
+            <key>PayloadIdentifier</key>
+            <string>net.enemyhunters.dailydetectives</string>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadUUID</key>
+            <string>22222222-2222-4222-8222-222222222222</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>Precomposed</key>
+            <false/>
+            <key>URL</key>
+            <string>https://enemy-hunters-x-daily-detectives.netlify.app</string>
+        </dict>
+
     </array>
+
     <key>PayloadDescription</key>
-    <string>Adds Enemy Hunters Official as a Home Screen web app.</string>
+    <string>Installs both Enemy Hunters web apps.</string>
+
     <key>PayloadDisplayName</key>
-    <string>Enemy Hunters Official</string>
+    <string>Enemy Hunters Apps</string>
+
     <key>PayloadIdentifier</key>
-    <string>net.enemy-hunters.configuration</string>
+    <string>net.enemyhunters.configuration</string>
+
     <key>PayloadOrganization</key>
     <string>Enemy Hunters</string>
+
     <key>PayloadRemovalDisallowed</key>
     <false/>
+
     <key>PayloadType</key>
     <string>Configuration</string>
+
     <key>PayloadUUID</key>
-    <string>818685A5-38FE-4B94-9BE5-12C7A1B32B34</string>
+    <string>33333333-3333-4333-8333-333333333333</string>
+
     <key>PayloadVersion</key>
     <integer>1</integer>
+
 </dict>
 </plist>
+```
