@@ -5,69 +5,45 @@
     <key>PayloadContent</key>
     <array>
         <dict>
-            <key>PayloadType</key>
-            <string>com.apple.webClip.managed</string>
-            <key>PayloadVersion</key>
-            <integer>1</integer>
-            <key>PayloadIdentifier</key>
-            <string>net.enemyhunters.official.webclip</string>
-            <key>PayloadUUID</key>
-            <string>A1B2C3D4-E5F6-4789-ABCD-123456789001</string>
-            <key>PayloadDisplayName</key>
-            <string>Enemy Hunters Official</string>
-            <key>PayloadDescription</key>
-            <string>Enemy Hunters Official website shortcut</string>
-            <key>Label</key>
-            <string>Enemy Hunters Official</string>
-            <key>URL</key>
-            <string>https://enemy-hunters.netlify.app/</string>
+            <key>FullScreen</key>
+            <true/>
             <key>IsRemovable</key>
             <true/>
-            <key>Precomposed</key>
-            <false/>
-            <key>FullScreen</key>
-            <false/>
-        </dict>
-        <dict>
+            <key>Label</key>
+            <string>Enemy Hunters Official</string>
+            <key>PayloadDescription</key>
+            <string>Adds Enemy Hunters Official to the Home Screen.</string>
+            <key>PayloadDisplayName</key>
+            <string>Enemy Hunters Official</string>
+            <key>PayloadIdentifier</key>
+            <string>net.enemy-hunters.webclip</string>
             <key>PayloadType</key>
             <string>com.apple.webClip.managed</string>
+            <key>PayloadUUID</key>
+            <string>C4A4C311-D112-48AE-A712-299F5BFF7F53</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
-            <key>PayloadIdentifier</key>
-            <string>net.enemyhunters.dailydetectives.webclip</string>
-            <key>PayloadUUID</key>
-            <string>B1B2C3D4-E5F6-4789-ABCD-123456789002</string>
-            <key>PayloadDisplayName</key>
-            <string>Enemy Hunters X Daily Detectives</string>
-            <key>PayloadDescription</key>
-            <string>Enemy Hunters X Daily Detectives website shortcut</string>
-            <key>Label</key>
-            <string>Enemy Hunters X Daily Detectives</string>
-            <key>URL</key>
-            <string>https://enemy-hunters-x-daily-detectives.netlify.app/</string>
-            <key>IsRemovable</key>
-            <true/>
             <key>Precomposed</key>
             <false/>
-            <key>FullScreen</key>
-            <false/>
+            <key>URL</key>
+            <string>https://enemy-hunters.netlify.app</string>
         </dict>
     </array>
+    <key>PayloadDescription</key>
+    <string>Adds Enemy Hunters Official as a Home Screen web app.</string>
     <key>PayloadDisplayName</key>
-    <string>Enemy Hunters Apps</string>
+    <string>Enemy Hunters Official</string>
     <key>PayloadIdentifier</key>
-    <string>net.enemyhunters.configuration</string>
-    <key>PayloadUUID</key>
-    <string>C1B2C3D4-E5F6-4789-ABCD-123456789003</string>
-    <key>PayloadVersion</key>
-    <integer>1</integer>
+    <string>net.enemy-hunters.configuration</string>
     <key>PayloadOrganization</key>
     <string>Enemy Hunters</string>
-    <key>PayloadDescription</key>
-    <string>Installs two Enemy Hunters website shortcuts.</string>
     <key>PayloadRemovalDisallowed</key>
     <false/>
     <key>PayloadType</key>
     <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>818685A5-38FE-4B94-9BE5-12C7A1B32B34</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
 </dict>
 </plist>
