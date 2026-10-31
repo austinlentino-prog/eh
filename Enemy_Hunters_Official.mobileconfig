@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>FullScreen</key>
+            <true/>
+            <key>IsRemovable</key>
+            <true/>
+            <key>Label</key>
+            <string>Enemy Hunters Official</string>
+            <key>PayloadDescription</key>
+            <string>Adds Enemy Hunters Official to the Home Screen.</string>
+            <key>PayloadDisplayName</key>
+            <string>Enemy Hunters Official</string>
+            <key>PayloadIdentifier</key>
+            <string>net.enemy-hunters.webclip</string>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadUUID</key>
+            <string>C4A4C311-D112-48AE-A712-299F5BFF7F53</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>Precomposed</key>
+            <false/>
+            <key>URL</key>
+            <string>https://enemy-hunters.netlify.app</string>
+        </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Adds Enemy Hunters Official as a Home Screen web app.</string>
+    <key>PayloadDisplayName</key>
+    <string>Enemy Hunters Official</string>
+    <key>PayloadIdentifier</key>
+    <string>net.enemy-hunters.configuration</string>
+    <key>PayloadOrganization</key>
+    <string>Enemy Hunters</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>818685A5-38FE-4B94-9BE5-12C7A1B32B34</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
